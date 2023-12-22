@@ -15,7 +15,7 @@ function Landing() {
           <h1>
             job <span>tracking</span> app
           </h1>
-          <p>some text</p>
+          <p>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</p>
           <Link to='/register' className='btn btn-hero'>
             Login / Register
           </Link>
